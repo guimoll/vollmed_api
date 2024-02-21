@@ -13,6 +13,7 @@ public class Medico {
     private String email;
     private String crm;
 
+
     @Enumerated
     private Especialidade especialidade;
     @Embedded
